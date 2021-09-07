@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.fabricmc.poopblock.mixin",
+  "compatibilityLevel": "JAVA_16",
+  "mixins": [
+  ],
+  "client": [
+    "PoopBlockMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
